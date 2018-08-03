@@ -1,6 +1,6 @@
 ## PASTE_O_ MATIC
 
-Simple Python3 script for inputting text which you wish to repeat over and over. 
+Simple Python3 script for inputting text which you wish to repeat over and over.  
 Various forms of output options.  
 New line or Same line.  
 Your text is output to a file if you wish to save it.  
