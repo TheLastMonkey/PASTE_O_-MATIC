@@ -1,0 +1,1 @@
+{'text': 'Follow TheLastMonkey on GitHub ', 'times_to_repeat': 420, 'same_or_next': 'n'}
