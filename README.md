@@ -49,7 +49,7 @@ If there is a session to resume meaning there is a text and parameters loaded in
 
      ______________What Do You Want to Do______________ 
 
-    OK I'll Repeat that 1 Times 
+    OK I'll Repeat that 6 Times 
 
     How to Output it
     1. [C]lipboard
