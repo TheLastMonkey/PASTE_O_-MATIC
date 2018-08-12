@@ -113,10 +113,15 @@ Examples
 Spamming with _NEXT LINE_  on "Your Text"
 
     Your Text 
+    #Enter key pressed here
     Your Text 
+    #Enter key pressed here
     Your Text 
+    #Enter key pressed here
     Your Text 
+    #Enter key pressed here
     Your Text 
+    #Enter key pressed here
     Your Text 
     #Enter key pressed here
 "#Enter key pressed here" line is not printed.
